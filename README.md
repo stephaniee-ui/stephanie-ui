@@ -8,7 +8,7 @@
 - Passionate about leveraging data science to derive insights for business🔥
 
 ## 👩‍💻 Projects
-### Clustering/Classifying Human vs. AI-Generated Images 
+### [**Clustering/Classifying Human vs. AI-Generated Images**](https://github.com/stephaniee-ui/Machine-Learning--Classification-CNN-Clustering.git) 
        •	Processed 79K+ images by resizing, normalizing, and augmenting for classification and clustering tasks  
        •	Applied Sobel filtering, PCA, and GMM with majority voting for unsupervised clustering, achieving 77.28% accuracy  
        •	Fine-tuned a ResNet-50 CNN model using PyTorch in Python, reaching 99.61% classification accuracy 
