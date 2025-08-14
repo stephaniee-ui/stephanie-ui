@@ -1,18 +1,18 @@
 # :wave: Hi all, I'm Stephanie!
 
 ## ✨ About Me
-- Currently studying **MS in Analytics (Data Science)** at **Georgia Institute of Technology**
-- Current Graduate Teaching Assistant for Analytics Modeling @ **Georgia Tech**
+- **MS in Analytics (Data Science)** candidate at **Georgia Institute of Technology**
+- Graduate Teaching Assistant for Analytics Modeling at **Georgia Tech**
 - Former Supply Chain Data Analytics and Automation Intern @ **Intel Corporation**
 - Former Financial Data Analyst @ **Samsung Electronics**
 - Passionate about leveraging data science to derive insights for business🔥
 
 ## 👩‍💻 Projects
-### [**Clustering/Classifying Human vs. AI-Generated Images**](https://github.com/stephaniee-ui/Machine-Learning--Classification-CNN-Clustering.git) 
+### [**- Clustering/Classifying Human vs. AI-Generated Images**](https://github.com/stephaniee-ui/Machine-Learning--Classification-CNN-Clustering.git) 
        •	Processed 79K+ images by resizing, normalizing, and augmenting for classification and clustering tasks  
        •	Applied Sobel filtering, PCA, and GMM with majority voting for unsupervised clustering, achieving 77.28% accuracy  
        •	Fine-tuned a ResNet-50 CNN model using PyTorch in Python, reaching 99.61% classification accuracy 
-### An interactive visualization platform for California Wildfire 
+### [**- An interactive visualization platform for California Wildfire**](https://github.com/stephaniee-ui/Machine-Learning--Classification-XGBoost--Visualization.git)
        •	Built an XGBoost model in Python with Bayesian tuning and SMOTE to predict wildfire risk, achieving a ROC-AUC of 0.98  
        •	Developed interactive Tableau dashboards to showcase model outputs, highlight seasonal risk peaks and resources mismatches across the U.S. and California; received a 4.88/5 user study rating. 
  
